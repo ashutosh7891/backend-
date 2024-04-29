@@ -1,4 +1,3 @@
-import { ref } from 'firebase/database'
 import mongoose from 'mongoose'
 
 
